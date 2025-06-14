@@ -1,3 +1,3 @@
-### Hi there 👋
-### I am an Android app developer with 3 years of experience
-### Welcome to my repository!!
+### Hello 👋
+### I’m a developer who enjoys coding and solving problems.
+### Welcome to my code world!
